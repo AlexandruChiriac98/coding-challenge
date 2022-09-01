@@ -1,0 +1,60 @@
+body{
+  background-image: url("sfondo.jpg");
+  background-size: 1980px 1280px;
+}
+#contenitore{
+  background: rgba(0, 0, 0, 0.3);
+  width: 1200px;
+  height: 800px;
+  margin: 2% 19%;
+  border-radius: 10px;
+}
+#logo{
+  width: 300px;
+}
+#testologo{
+  color: green;
+}
+header{
+  text-align: center;
+}
+.nome{
+  color: white;
+  font-size: 25px;
+  margin-left: auto;
+}
+nav{
+  background: green;
+  text-align: center;
+  margin: 1px 100px;
+  padding: 7px;
+  border-radius: 4px;
+}
+.stacco{
+  margin-left: 100px;
+  color: white;
+}
+#mono1{
+  background-color: yellow;
+  width: 270px;
+  margin-left: 100px;
+  padding: 10px;
+  border: 10px;
+  border-radius: 4px;
+}
+#mono2{
+  background-color: green;
+  width: 480px;
+  margin-left: 100px;
+  padding: 10px;
+  border: 10px;
+  border-radius: 4px;
+}
+#mono3{
+  background-color: red;
+  width: 220px;
+  margin-left: 100px;
+  padding: 10px;
+  border: 10px;
+  border-radius: 4px;
+}
